@@ -1,0 +1,9 @@
+https://github.com/mjmaslow-UMich/visual-git-tools.git
+
+visual-tools:
+Create README.md
+Create checkout.py
+Update comments
+
+main:
+Create README.md
